@@ -1,4 +1,7 @@
 
 Tests
+<<<<<<< HEAD
 
 Test  words
+=======
+>>>>>>> d6224d1 (Revert "test2")
