@@ -1,7 +1,10 @@
 
 Tests
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Test  words
+=======
+>>>>>>> d6224d1 (Revert "test2")
 =======
 >>>>>>> d6224d1 (Revert "test2")
