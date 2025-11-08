@@ -22,7 +22,7 @@ git restore <文件名>            //回退修改
 
 ![](/images/git_restore.png)
 
-
+![](screenshot\restore.png)
 
 #### 方法2
 
@@ -32,7 +32,7 @@ git checkout -- 对应文件        //对已修改，未暂存的文件回退到
 
 <img src="/images/git_checkout.png" style="zoom: 33%;" />
 
-
+![](screenshot\checkout.png)
 
 ---
 
@@ -50,7 +50,7 @@ git revert HEAD              //不修改历史的方法来回退上一次提交�
 
 ![](/images/git_revert.png)
 
-
+![](screenshot\revert.png)
 
 #### 方法2
 
@@ -62,7 +62,7 @@ git reset --hard HEAD^       //修改历史记录的回退
 
 
 
-
+![](screenshot\reset_1.png)
 
 ---
 
@@ -78,7 +78,7 @@ git reset --hard HEAD^       //修改历史记录的回退
 git rebase <commit>         //将对应分支切换到主分支，从而使提交历史更整洁，线性 
 ```
 
-
+![](screenshot\rebase.png)
 
 #### 方法2
 
@@ -86,7 +86,15 @@ git rebase <commit>         //将对应分支切换到主分支，从而使提�
 git cherry-pick <对应哈希>   //只会将某部分代码变动进行同步
 ```
 
+![](screenshot\cherry.png)
+
+![](screenshot\cherry2.png)
+
+![](screenshot\cherry3.png)
+
 
 
 ---
+
+
 
